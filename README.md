@@ -196,11 +196,5 @@ Python | OpenCV | Computer Vision | Embedded Systems
 
 GitHub: https://github.com/swathika0401
 
----
 
-## ⚠️ Notice
-
-This project is intended for educational and research purposes only.
-
-Unauthorized copying, redistribution, or commercial use without permission is prohibited.
 
