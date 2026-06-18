@@ -194,7 +194,7 @@ Electronics and Communication Engineering (ECE)
 
 Python | OpenCV | Computer Vision | Embedded Systems
 
-GitHub: https://github.com/swathika0401
+GitHub: https://github.com/swathika0401/opencv-drowsiness-fatigue-detection
 
 
 
